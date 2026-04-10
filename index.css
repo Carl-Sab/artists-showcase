@@ -169,3 +169,20 @@ body {
     grid-column: auto;
   }
 }
+.support-section {
+  margin: 40px;
+  padding: 30px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.support-section h2 {
+  margin-bottom: 15px;
+}
+
+.support-section p {
+  color: #555;
+  line-height: 1.6;
+}
